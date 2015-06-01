@@ -1,0 +1,5 @@
+Version 2.5
+ChicagoList se actualizo para usar formato xml.
+
+Version 3.0
+ChicagoList se actualizo en todas las lineas, se agrego configuracion automatica.
